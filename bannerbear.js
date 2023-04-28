@@ -1,6 +1,6 @@
 const { Bannerbear } = require('bannerbear');
 const bb = new Bannerbear(process.env.BB_API_KEY);
-const TEMPLATE_ID = 'k4qoBVDy1g7rDzN0gj'; //replace this with your own template ID
+const TEMPLATE_ID = 'APW1bDp49YKdj347zjmVoORax'; //replace this with your own template ID
 
 exports.generateWallpaper = async function(todoTasks, calendarObj) {
 
